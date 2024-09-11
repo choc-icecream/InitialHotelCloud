@@ -1,1 +1,1 @@
-# InitialHotel
+# InitialHotelCloud
